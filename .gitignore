@@ -1,0 +1,7 @@
+/node_modules/
+/public/build/
+
+.DS_Store
+svelte-metro.exe
+config.toml
+svelte-metro
